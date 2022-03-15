@@ -1,0 +1,314 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\temp\desktop\STC89C51\lesson_2\lesson_2.uvproj
+Project File Date:  03/13/2022
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling lesson_2.c...
+LESSON_2.C(8): error C141: syntax error near '}'
+Target not created
+Build target 'Target 1'
+compiling lesson_2.c...
+linking...
+Program Size: data=9.0 xdata=0 code=44
+creating hex file from "lesson_2"...
+"lesson_2" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lesson_2.c...
+linking...
+Program Size: data=9.0 xdata=0 code=44
+creating hex file from "lesson_2"...
+"lesson_2" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lesson_2.c...
+linking...
+Program Size: data=9.0 xdata=0 code=44
+creating hex file from "lesson_2"...
+"lesson_2" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lesson_2.c...
+linking...
+Program Size: data=9.0 xdata=0 code=59
+creating hex file from "lesson_2"...
+"lesson_2" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lesson_2.c...
+linking...
+Program Size: data=9.0 xdata=0 code=64
+creating hex file from "lesson_2"...
+"lesson_2" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lesson_2.c...
+linking...
+Program Size: data=9.0 xdata=0 code=67
+creating hex file from "lesson_2"...
+"lesson_2" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lesson_2.c...
+linking...
+Program Size: data=9.0 xdata=0 code=67
+creating hex file from "lesson_2"...
+"lesson_2" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lesson_2.c...
+linking...
+Program Size: data=9.0 xdata=0 code=67
+creating hex file from "lesson_2"...
+"lesson_2" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lesson_2.c...
+linking...
+Program Size: data=9.0 xdata=0 code=99
+creating hex file from "lesson_2"...
+"lesson_2" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lesson_2.c...
+linking...
+Program Size: data=9.0 xdata=0 code=96
+creating hex file from "lesson_2"...
+"lesson_2" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lesson_2.c...
+linking...
+Program Size: data=9.0 xdata=0 code=96
+creating hex file from "lesson_2"...
+"lesson_2" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lesson_2.c...
+LESSON_2.C(20): error C141: syntax error near 'bizz'
+LESSON_2.C(22): error C141: syntax error near 'boomtime'
+LESSON_2.C(31): error C141: syntax error near 'delay'
+LESSON_2.C(32): error C141: syntax error near 'delay'
+LESSON_2.C(33): error C141: syntax error near '}'
+Target not created
+compiling lesson_2.c...
+LESSON_2.C(21): error C141: syntax error near 'bizz'
+LESSON_2.C(23): error C141: syntax error near 'boomtime'
+LESSON_2.C(33): error C141: syntax error near 'delay'
+LESSON_2.C(34): error C141: syntax error near 'delay'
+LESSON_2.C(35): error C141: syntax error near '}'
+lesson_2.c - 5 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lesson_2.c...
+LESSON_2.C(21): error C141: syntax error near 'bizz'
+LESSON_2.C(23): error C141: syntax error near 'boomtime'
+LESSON_2.C(33): error C141: syntax error near 'delay'
+LESSON_2.C(34): error C141: syntax error near 'delay'
+LESSON_2.C(35): error C141: syntax error near '}'
+Target not created
+Build target 'Target 1'
+compiling lesson_2.c...
+LESSON_2.C(21): error C141: syntax error near 'bizz'
+LESSON_2.C(23): error C141: syntax error near 'boomtime'
+Target not created
+Build target 'Target 1'
+compiling lesson_2.c...
+linking...
+Program Size: data=9.0 xdata=0 code=77
+creating hex file from "lesson_2"...
+"lesson_2" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lesson_2.c...
+linking...
+Program Size: data=9.0 xdata=0 code=77
+creating hex file from "lesson_2"...
+"lesson_2" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lesson_2.c...
+linking...
+Program Size: data=9.0 xdata=0 code=77
+creating hex file from "lesson_2"...
+"lesson_2" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lesson_2.c...
+linking...
+Program Size: data=9.0 xdata=0 code=82
+creating hex file from "lesson_2"...
+"lesson_2" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lesson_2.c...
+linking...
+Program Size: data=9.0 xdata=0 code=77
+creating hex file from "lesson_2"...
+"lesson_2" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lesson_2.c...
+linking...
+Program Size: data=9.0 xdata=0 code=77
+creating hex file from "lesson_2"...
+"lesson_2" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lesson_2.c...
+LESSON_2.C(39): error C141: syntax error near 'unsigned'
+LESSON_2.C(39): error C202: 'time2': undefined identifier
+LESSON_2.C(40): error C202: 'time2': undefined identifier
+LESSON_2.C(46): error C141: syntax error near 'unsigned'
+LESSON_2.C(46): error C202: 'time3': undefined identifier
+LESSON_2.C(47): error C202: 'time3': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lesson_2.c...
+LESSON_2.C(39): error C141: syntax error near 'unsigned'
+LESSON_2.C(39): error C202: 'time2': undefined identifier
+LESSON_2.C(40): error C202: 'time2': undefined identifier
+LESSON_2.C(44): error C202: 'time2': undefined identifier
+LESSON_2.C(46): error C141: syntax error near 'unsigned'
+LESSON_2.C(46): error C202: 'time3': undefined identifier
+LESSON_2.C(47): error C202: 'time3': undefined identifier
+LESSON_2.C(51): error C202: 'time3': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lesson_2.c...
+LESSON_2.C(40): error C141: syntax error near 'unsigned'
+LESSON_2.C(40): error C202: 'timeb': undefined identifier
+LESSON_2.C(41): error C202: 'timeb': undefined identifier
+LESSON_2.C(45): error C202: 'timeb': undefined identifier
+LESSON_2.C(48): error C141: syntax error near 'unsigned'
+LESSON_2.C(48): error C202: 'timec': undefined identifier
+LESSON_2.C(49): error C202: 'timec': undefined identifier
+LESSON_2.C(53): error C202: 'timec': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lesson_2.c...
+LESSON_2.C(40): error C141: syntax error near 'unsigned'
+LESSON_2.C(40): error C202: 'timeb': undefined identifier
+LESSON_2.C(41): error C202: 'timeb': undefined identifier
+LESSON_2.C(45): error C202: 'timeb': undefined identifier
+LESSON_2.C(48): error C141: syntax error near 'unsigned'
+LESSON_2.C(48): error C202: 'timec': undefined identifier
+LESSON_2.C(49): error C202: 'timec': undefined identifier
+LESSON_2.C(53): error C202: 'timec': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lesson_2.c...
+LESSON_2.C(40): error C141: syntax error near 'int'
+LESSON_2.C(40): error C202: 'timeb': undefined identifier
+LESSON_2.C(41): error C202: 'timeb': undefined identifier
+LESSON_2.C(45): error C202: 'timeb': undefined identifier
+LESSON_2.C(48): error C141: syntax error near 'int'
+LESSON_2.C(48): error C202: 'timec': undefined identifier
+LESSON_2.C(49): error C202: 'timec': undefined identifier
+LESSON_2.C(53): error C202: 'timec': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lesson_2.c...
+LESSON_2.C(39): error C141: syntax error near 'int'
+LESSON_2.C(39): error C202: 'timeb': undefined identifier
+LESSON_2.C(40): error C202: 'timeb': undefined identifier
+LESSON_2.C(44): error C202: 'timeb': undefined identifier
+LESSON_2.C(47): error C141: syntax error near 'int'
+LESSON_2.C(47): error C202: 'timec': undefined identifier
+LESSON_2.C(48): error C202: 'timec': undefined identifier
+LESSON_2.C(52): error C202: 'timec': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lesson_2.c...
+LESSON_2.C(39): error C141: syntax error near 'int'
+LESSON_2.C(39): error C202: 'boomtimeb': undefined identifier
+LESSON_2.C(40): error C202: 'boomtimeb': undefined identifier
+LESSON_2.C(44): error C202: 'boomtimeb': undefined identifier
+LESSON_2.C(47): error C141: syntax error near 'int'
+LESSON_2.C(47): error C202: 'boomtimec': undefined identifier
+LESSON_2.C(48): error C202: 'boomtimec': undefined identifier
+LESSON_2.C(52): error C202: 'boomtimec': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lesson_2.c...
+LESSON_2.C(39): error C141: syntax error near 'unsigned'
+LESSON_2.C(39): error C202: 'boomtimeb': undefined identifier
+LESSON_2.C(40): error C202: 'boomtimeb': undefined identifier
+LESSON_2.C(44): error C202: 'boomtimeb': undefined identifier
+LESSON_2.C(47): error C141: syntax error near 'unsigned'
+LESSON_2.C(47): error C202: 'boomtimec': undefined identifier
+LESSON_2.C(48): error C202: 'boomtimec': undefined identifier
+LESSON_2.C(52): error C202: 'boomtimec': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lesson_2.c...
+LESSON_2.C(39): error C141: syntax error near 'unsigned'
+LESSON_2.C(39): error C202: 'boomtimeb': undefined identifier
+LESSON_2.C(40): error C202: 'boomtimeb': undefined identifier
+LESSON_2.C(44): error C202: 'boomtimeb': undefined identifier
+LESSON_2.C(47): error C141: syntax error near 'unsigned'
+LESSON_2.C(47): error C202: 'boomtimec': undefined identifier
+LESSON_2.C(48): error C202: 'boomtimec': undefined identifier
+LESSON_2.C(52): error C202: 'boomtimec': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lesson_2.c...
+LESSON_2.C(39): error C141: syntax error near 'unsigned'
+LESSON_2.C(39): error C202: 'boomtimeb': undefined identifier
+LESSON_2.C(40): error C202: 'boomtimeb': undefined identifier
+LESSON_2.C(44): error C202: 'boomtimeb': undefined identifier
+LESSON_2.C(47): error C141: syntax error near 'unsigned'
+LESSON_2.C(47): error C202: 'boomtimec': undefined identifier
+LESSON_2.C(48): error C202: 'boomtimec': undefined identifier
+LESSON_2.C(52): error C202: 'boomtimec': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lesson_2.c...
+linking...
+Program Size: data=13.0 xdata=0 code=162
+creating hex file from "lesson_2"...
+"lesson_2" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lesson_2.c...
+linking...
+Program Size: data=13.0 xdata=0 code=162
+creating hex file from "lesson_2"...
+"lesson_2" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lesson_2.c...
+linking...
+Program Size: data=13.0 xdata=0 code=169
+creating hex file from "lesson_2"...
+"lesson_2" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lesson_2.c...
+linking...
+Program Size: data=13.0 xdata=0 code=169
+creating hex file from "lesson_2"...
+"lesson_2" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lesson_2.c...
+linking...
+Program Size: data=13.0 xdata=0 code=169
+creating hex file from "lesson_2"...
+"lesson_2" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lesson_2.c...
+LESSON_2.C(33): error C141: syntax error near 'while'
+LESSON_2.C(37): error C231: 'boom': redefinition
+LESSON_2.C(42): error C141: syntax error near 'while'
+LESSON_2.C(42): error C141: syntax error near '>', expected ')'
+LESSON_2.C(44): error C231: 'boom': redefinition
+LESSON_2.C(45): error C141: syntax error near '60000'
+LESSON_2.C(45): error C231: '_delay': redefinition
+LESSON_2.C(46): error C247: non-address/-constant initializer
+LESSON_2.C(47): error C141: syntax error near '}'
+LESSON_2.C(49): error C141: syntax error near '>', expected ')'
+LESSON_2.C(51): error C231: 'boom': redefinition
+LESSON_2.C(52): error C141: syntax error near '25000'
+LESSON_2.C(52): error C231: '_delay': redefinition
+LESSON_2.C(53): error C247: non-address/-constant initializer
+LESSON_2.C(54): error C141: syntax error near '}'
+LESSON_2.C(56): error C141: syntax error near '>', expected ')'
+LESSON_2.C(58): error C231: 'boom': redefinition
+LESSON_2.C(59): error C141: syntax error near '10000'
+LESSON_2.C(59): error C231: '_delay': redefinition
+LESSON_2.C(60): error C247: non-address/-constant initializer
+LESSON_2.C(61): error C141: syntax error near '}'
+LESSON_2.C(63): error C141: syntax error near '1'
+LESSON_2.C(65): error C231: 'boom': redefinition
+LESSON_2.C(66): error C141: syntax error near '}'
+Target not created
+Build target 'Target 1'
+compiling lesson_2.c...
+linking...
+Program Size: data=15.0 xdata=0 code=197
+creating hex file from "lesson_2"...
+"lesson_2" - 0 Error(s), 0 Warning(s).

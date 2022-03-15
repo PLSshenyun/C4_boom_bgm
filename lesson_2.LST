@@ -1,0 +1,94 @@
+C51 COMPILER V9.01   LESSON_2                                                              03/13/2022 23:54:09 PAGE 1   
+
+
+C51 COMPILER V9.01, COMPILATION OF MODULE LESSON_2
+OBJECT MODULE PLACED IN lesson_2.OBJ
+COMPILER INVOKED BY: D:\program\STC89c51\keil\C51\BIN\C51.EXE lesson_2.c BROWSE DEBUG OBJECTEXTEND
+
+line level    source
+
+   1          #include <reg52.h>
+   2          
+   3          typedef unsigned int u16;
+   4          
+   5          sbit bizz = P2^5;
+   6          
+   7          //延时函数
+   8          void delay(u16 time)
+   9          {
+  10   1          while(time--){}
+  11   1      }
+  12          
+  13          //炸弹声音函数
+  14          void boom()
+  15          {   
+  16   1          unsigned int boomtime = 250;
+  17   1          while(boomtime)
+  18   1          {
+  19   2              bizz = 0;
+  20   2              delay(20);
+  21   2              bizz = 1;
+  22   2              delay(20);
+  23   2              boomtime = boomtime - 1;
+  24   2          }
+  25   1      }
+  26          
+  27          void main()
+  28          {
+  29   1          unsigned int boomtimea = 15;
+  30   1          unsigned int boomtimeb = 25;
+  31   1          unsigned int boomtimec = 35;
+  32   1              unsigned int boomtime0 = 10;
+  33   1          while (1)
+  34   1          {
+  35   2              while (boomtime0 > 0)
+  36   2                      {
+  37   3                              boom();
+  38   3                              delay(60000);
+  39   3                              delay(60000);
+  40   3                              boomtime0 = boomtime0 - 1;
+  41   3                      }
+  42   2              while (boomtimea > 0)
+  43   2              {
+  44   3                  boom();
+  45   3                  delay(60000);
+  46   3                  boomtimea = boomtimea - 1;
+  47   3              }
+  48   2              
+  49   2              while (boomtimeb > 0)
+  50   2              {
+  51   3                  boom();
+  52   3                  delay(25000);
+  53   3                  boomtimeb = boomtimeb - 1;
+  54   3              }
+  55   2              
+C51 COMPILER V9.01   LESSON_2                                                              03/13/2022 23:54:09 PAGE 2   
+
+  56   2              while (boomtimec > 0)
+  57   2              {
+  58   3                  boom();
+  59   3                  delay(10000);
+  60   3                  boomtimec = boomtimec - 1;
+  61   3              }
+  62   2      
+  63   2              while (1)
+  64   2              {
+  65   3                  boom();
+  66   3              }
+  67   2              
+  68   2          }
+  69   1      }
+
+
+MODULE INFORMATION:   STATIC OVERLAYABLE
+   CODE SIZE        =    182    ----
+   CONSTANT SIZE    =   ----    ----
+   XDATA SIZE       =   ----    ----
+   PDATA SIZE       =   ----    ----
+   DATA SIZE        =   ----       6
+   IDATA SIZE       =   ----    ----
+   BIT SIZE         =   ----    ----
+END OF MODULE INFORMATION.
+
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  0 ERROR(S)
