@@ -4,7 +4,8 @@ typedef unsigned int u16;
 
 sbit bizz = P2^5;
 
-//延时函数
+//延时函数 branch 测试
+
 void delay(u16 time)
 {
     while(time--){}
